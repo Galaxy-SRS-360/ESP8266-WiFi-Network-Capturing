@@ -12,7 +12,6 @@ The built-in LED will blink 5 times when a password is posted.
 
 <b>Note:</b> If you want to see the stored passwords go to "**192.168.6.21**<a>/pass</a>". For changing the SSID, go to "**192.168.6.21**<a>/ssid</a>"
 
-<b>V. 2.0 (Fake sign in)</b>: https://github.com/125K/ESP8266_WiFi_Captive_Portal_2.0
 
 # Screenshots
 
@@ -35,10 +34,6 @@ The built-in LED will blink 5 times when a password is posted.
 <td><img width="200px" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal/master/src/4_ssid.jpg" title="ssid"></td>
   </tr>
 </table>
-
-Here you can donate if you liked my project and you want to support me:
-
-<a href="https://www.buymeacoffee.com/rSiZtB3" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 # Installation (ESP8266 Flasher - Easy way)
 
@@ -64,7 +59,7 @@ Here you can donate if you liked my project and you want to support me:
 ``http://arduino.esp8266.com/stable/package_esp8266com_index.json``
 2. Go to "Tools -> Board -> Boards Manager", search "esp8266" and install esp8266
 3. Go to "Tools -> Board" and select you board"
-4. Download and open the sketch "<a href="https://github.com/125K/ESP8266_WiFi_Captive_Portal/blob/master/WiFi_Captive_Portal.ino"><b>WiFi_Captive_Portal.ino</b></a>"
+4. Download and open the sketch "<a href="https://github.com/Galaxy-SRS-360/ESP8266-WiFi-Network-Capturing/blob/main/WiFi_Captive.ino"><b>WiFi_Captive.ino</b></a>"
 5. You can optionally change some parameters like the SSID name and texts of the page like title, subtitle, text body...
 6. Upload the code into your board.
 7. You are done!
