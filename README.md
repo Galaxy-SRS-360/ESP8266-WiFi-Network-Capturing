@@ -10,13 +10,9 @@ The built-in LED will blink 5 times when a password is posted.
 
 <b>Warning!</b> Your saved passwords will **not** disappear when you restart/power off the ESP8266.
 
-<b>Note:</b> If you want to see the stored passwords go to "**172.0.0.1**<a>/pass</a>". For changing the SSID, go to "**172.0.0.1**<a>/ssid</a>"
+<b>Note:</b> If you want to see the stored passwords go to "**192.168.6.21**<a>/pass</a>". For changing the SSID, go to "**192.168.6.21**<a>/ssid</a>"
 
 <b>V. 2.0 (Fake sign in)</b>: https://github.com/125K/ESP8266_WiFi_Captive_Portal_2.0
-
-# Showcase
-
-<a target="_blank" href="https://youtu.be/v4-5oX3RG94"><img width="700px" src="https://raw.githubusercontent.com/125K/ESP8266_WiFi_Captive_Portal/master/src/thumbnail.png"></a>
 
 # Screenshots
 
@@ -74,9 +70,4 @@ Here you can donate if you liked my project and you want to support me:
 7. You are done!
 
 
-## Check out my other projects
 
-- **WiFi-Spam**: :email::satellite: Spam thousands of WiFi access points with custom SSIDs.
-  - https://github.com/125K/WiFi-Spam
-- **PwrDeauther**: :zap: Deauth a specific WiFi access point or an entire channel.
-  - https://github.com/125K/PwrDeauther
