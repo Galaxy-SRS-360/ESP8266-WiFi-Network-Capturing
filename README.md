@@ -17,10 +17,10 @@ The built-in LED will blink 5 times when a password is posted.
 
 <table>
   <tr>
-    <th>172.0.0.1/index</th>
-    <th>172.0.0.1/post</th> 
-    <th>172.0.0.1/pass</th>
-    <th>172.0.0.1/ssid</th>
+    <th>192.168.6.21/index</th>
+    <th>192.168.6.21/post</th> 
+    <th>192.168.6.21pass</th>
+    <th>192.168.6.21ssid</th>
   </tr>
   <tr>
     <td>This is the main page. Here the user will write his password and send it.</td>
